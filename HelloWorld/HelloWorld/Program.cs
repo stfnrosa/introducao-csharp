@@ -4,10 +4,8 @@ class Program
 {
     static void Main()
     {
-        Carro meuCarro = new Carro();
-
-        meuCarro.Ligar();
-
-        meuCarro.Desligar();
+        int numero = 7;
+        long numero2 = 7;
+        uint numero3 = 7;
     }
 }
