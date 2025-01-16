@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\TiposDeDados.exe
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\TiposDeDados.deps.json
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\TiposDeDados.dll
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\TiposDeDados.pdb
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.sourcelink.json
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.dll
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\TiposDeDados.dll
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.pdb
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\TiposDeDados.dll

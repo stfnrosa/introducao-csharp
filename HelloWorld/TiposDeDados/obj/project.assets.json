@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\HelloWorld\\TiposDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\TiposDeDados\\TiposDeDados.csproj",
       "projectName": "TiposDeDados",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\HelloWorld\\TiposDeDados.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\TiposDeDados\\TiposDeDados.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\introducao-csharp\\HelloWorld\\TiposDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
