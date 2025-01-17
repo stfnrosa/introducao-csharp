@@ -7,7 +7,6 @@ C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.sourcelink.json
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.dll
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\TiposDeDados.dll
 C:\Users\User\Desktop\Estefani\Projetos\introducao-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\TiposDeDados.pdb
