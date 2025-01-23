@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using TiposDeDados;
 
 namespace HelloWorld;
 
@@ -80,5 +81,13 @@ class Program
         bool existe = funcionario.ContainsKey(27); //Valida se a chave já existe;
 
         Console.WriteLine(existe);
+
+        //FUNÇÕES
+
+        var matematica = new OperacoesMatematicas();
+
+        var resultado = matematica.Adicionar(valor1:10, valor2:90);
+
+        Console.WriteLine(resultado);
     }
 }
