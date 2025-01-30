@@ -89,5 +89,16 @@ class Program
         var resultado = matematica.Adicionar(valor1:10, valor2:90);
 
         Console.WriteLine(resultado);
+
+        //Classes
+
+        var carro2 = new Carro(Cor.Preto)
+        {
+            Modelo = "Kombi",
+            DataLancamento= new DateOnly(1977, 07, 07)
+                
+        };
+
+        carro2.NomeDoModelo();
     }
 }

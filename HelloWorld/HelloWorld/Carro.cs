@@ -1,13 +1,18 @@
-﻿namespace HelloWorld;
+﻿namespace TiposDeDados;
 class Carro
 {
-    public void Ligar()
+    public required string Modelo { get; set; }
+    public DateOnly DataLancamento { get; set; }
+    public Cor Cor { get; set; }
+
+    public Carro(Cor cor)
     {
-        Console.WriteLine("Carro ligado!");
+        Cor = cor; 
     }
 
-    public void Desligar()
+    public Carro()
     {
-        Console.WriteLine("Carro desligado!");
     }
+
+    public void NomeDoModelo() => Console.WriteLine(Modelo);
 }
